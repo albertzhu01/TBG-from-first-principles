@@ -13,3 +13,5 @@ For angles between $0.78^\circ$ and $21.79^\circ$, we provide the low-energy wav
 For angles between $0.93^\circ$ and $1.05^\circ$, we provide tight-binding Hamiltonians obtained by Wannierizing the the 20 DFT bands closest to charge neutrality using the [Wannier90](https://www.sciencedirect.com/science/article/abs/pii/S0010465507004936?via%3Dihub). They are located in `tight-binding-hamiltonians/`.
 
 We include Python Jupyter notebooks (`relaxed_structures.ipynb`, `bands_tight_binding.ipynb`, and `wavefunctions.ipynb`) as tutorials of how to read, manipulate, and analyze the atomic and electronic structure data. `Matplotlib` and `numpy` are required to run all notebooks. Additionally, `scipy` and `sisl` are required to run `wavefunctions.ipynb`.
+
+For questions about the data, please contact Albert Zhu at axzhu@g.harvard.edu.
